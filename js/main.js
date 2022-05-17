@@ -1,4 +1,4 @@
-import { Clock } from "./js/clock.js";
+import { Clock } from "./clock.js";
 
 main();
 
